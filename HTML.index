@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FutureTech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">FutureTech</div>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="content">
+        <h1>Discover the Future of Technology</h1>
+
+        <p>
+            Build modern websites with HTML and CSS.
+            Learn responsive web design and create beautiful user experiences.
+        </p>
+
+        <a href="#" class="btn">Explore Now</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 FutureTech | Follow Us</p>
+
+    <div class="social">
+        <a href="#">Instagram</a>
+        <a href="#">LinkedIn</a>
+        <a href="#">GitHub</a>
+    </div>
+</footer>
+
+</body>
+</html>
